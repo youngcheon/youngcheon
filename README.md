@@ -1,4 +1,4 @@
-### 👋 안녕하세요. 깊게 몰입해서 빠르게 성장하고 싶은 개발자 김영천입니다.
+### 👋 안녕하세요, 뚝딱뚝딱 만들기를 좋아하는 김영천입니다.
 <a href="https://www.instagram.com/0thounsandboy/">
     <img 
         src="http://img.shields.io/badge/-instagram-333333?style=flat&logo=Instagram&link=https://www.instagram.com/0thousandboy/"
