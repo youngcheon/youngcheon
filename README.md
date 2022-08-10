@@ -1,6 +1,5 @@
 ![transparent](https://capsule-render.vercel.app/api?type=waving&color=0:beebfd,100:9ec5d5&text=Youngcheon&height=200&fontSize=60&animation=twinkling)
 <br>
-![DALL·E 2022-08-08 02 02 42 - Van Gogh using MacBook, Van Gogh style](https://user-images.githubusercontent.com/76905528/183302493-a30b63ab-7fea-499f-9956-aff7efb401bb.png)
 
 <p align="center">
 <a href="https://www.instagram.com/0thounsandboy/">
