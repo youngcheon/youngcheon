@@ -2,7 +2,7 @@
 <br>
 
 <p align="center" styled="display : flex; flex-direction : column">
-<a href="https://www.instagram.com/0thounsandboy/">
+<a href="https://www.instagram.com/youngchxxn/">
     <img 
         src="http://img.shields.io/badge/-instagram-333333?style=flat&logo=Instagram&link=https://www.instagram.com/0thousandboy/"
         style="display: flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
