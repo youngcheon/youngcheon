@@ -12,9 +12,9 @@
         src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@youngcheon"
         style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://velog.io/@youngcheon">
+<a href="https://solved.ac/profile/rla1371">
     <img 
-        src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rla1371&link=https://solved.ac/rla1371"
+        src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rla1371"
         style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </p>
