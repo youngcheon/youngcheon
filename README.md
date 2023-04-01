@@ -12,10 +12,14 @@
         src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@youngcheon"
         style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://velog.io/@youngcheon">
+    <img 
+        src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rla1371&link=https://solved.ac/rla1371"
+        style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 </p>
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngcheon&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngcheon&layout=compact&theme=great-gatsby&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rla1371)](https://solved.ac/rla1371)
- -->
+-->
+
