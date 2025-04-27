@@ -1,10 +1,10 @@
-![transparent](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&text=𝔂𝓸𝓾𝓷𝓰𝓬𝓱𝓮𝓸𝓷&height=150&fontSize=40&animation=twinkling)
+![transparent](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&text=𝐲𝐨𝐮𝐧𝐠𝐡𝐲𝐮𝐧&height=150&fontSize=40&animation=twinkling)
 <br>
 
 <p align="center" styled="display : flex; flex-direction : column">
 <a href="https://www.instagram.com/youngchxxn/">
     <img 
-        src="http://img.shields.io/badge/-instagram-333333?style=flat&logo=Instagram&link=https://www.instagram.com/0thousandboy/"
+        src="http://img.shields.io/badge/-instagram-333333?style=flat&logo=Instagram&link=https://www.instagram.com/youngchxxn/"
         style="display: flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://velog.io/@youngcheon">
