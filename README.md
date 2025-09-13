@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&text=𝐲𝐨𝐮𝐧𝐠𝐡𝐲𝐮𝐧&height=150&fontSize=40&animation=twinkling)
+![transparent](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&text=𝒚𝒐𝒖𝒏𝒈𝒄𝒉𝒆𝒐𝒏&height=150&fontSize=40&animation=twinkling)
 <br>
 
 <p align="center" styled="display : flex; flex-direction : column">
