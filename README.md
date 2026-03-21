@@ -1,8 +1,5 @@
-![transparent](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&text=𝒚𝒐𝒖𝒏𝒈𝒄𝒉𝒆𝒐𝒏&height=150&fontSize=40&animation=twinkling)
-<br>
-
 <p align="center" styled="display : flex; flex-direction : column">
-<a href="https://www.instagram.com/youngchxxn/">
+<a href="https://www.instagram.com/younghxnn/">
     <img 
         src="http://img.shields.io/badge/-instagram-333333?style=flat&logo=Instagram&link=https://www.instagram.com/youngchxxn/"
         style="display: flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
