@@ -1,28 +1,20 @@
+<p align="center" styled="display : flex; flex-direction : column">
+	<!-- <a href="https://www.instagram.com/younghxnn/">
+	    <img 
+	        src="http://img.shields.io/badge/-instagram-333333?style=flat&logo=Instagram&link=https://www.instagram.com/youngchxxn/"
+	        style="display: flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
+	</a>
+	<a href="https://velog.io/@youngcheon">
+	    <img 
+	        src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@youngcheon"
+	        style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
+	</a> -->
+	<a href="https://youtu.be/GOdzldGqTzU?si=iTAqhrem4q1fLthh">
+	    <img 
+	        src="https://sound-badge.vercel.app/api/card.svg?url=https://youtu.be/GOdzldGqTzU?si=iTAqhrem4q1fLthh&theme=stream"
+	        style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
+	</a>
+</p>
 
-<a href="https://www.instagram.com/younghxnn/">
-    <img 
-        src="http://img.shields.io/badge/-instagram-333333?style=flat&logo=Instagram&link=https://www.instagram.com/youngchxxn/"
-        style="display: flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://velog.io/@youngcheon">
-    <img 
-        src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@youngcheon"
-        style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
-
-![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://youtu.be/GOdzldGqTzU?si=iTAqhrem4q1fLthh&theme=stream)
-
-
-
-
-<!-- <div align="center">
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
-	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
-	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-</div> -->
-<!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngcheon&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngcheon&layout=compact&theme=great-gatsby&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
--->
 
