@@ -1,4 +1,4 @@
-<p align="center" styled="display : flex; flex-direction : column">
+
 <a href="https://www.instagram.com/younghxnn/">
     <img 
         src="http://img.shields.io/badge/-instagram-333333?style=flat&logo=Instagram&link=https://www.instagram.com/youngchxxn/"
@@ -9,12 +9,13 @@
         src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@youngcheon"
         style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<!-- <a href="https://solved.ac/profile/rla1371">
-    <img 
-        src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rla1371"
-        style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> -->
-</p>
+
+
+![My Music](https://sound-badge.vercel.app/api/card.svg?url=https://youtu.be/GOdzldGqTzU?si=iTAqhrem4q1fLthh&theme=stream)
+
+
+
+
 <!-- <div align="center">
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
 	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
