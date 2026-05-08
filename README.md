@@ -9,7 +9,7 @@
 	        src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@youngcheon"
 	        style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
 	</a> -->
-	<a href="https://youtu.be/GOdzldGqTzU?si=iTAqhrem4q1fLthh">
+	<a href="https://youtu.be/ovj8Gb_cVgY?list=RDovj8Gb_cVgYh">
 	    <img 
 	        src="https://sound-badge.vercel.app/api/card.svg?url=https://youtu.be/ovj8Gb_cVgY?list=RDovj8Gb_cVgYh&theme=stream"
 	        style="display : flex; height : auto; margin-left : 10px; margin-right : 10px;"/>
